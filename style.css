@@ -1,0 +1,19 @@
+body{
+    background: url('back.jpg');
+    background-attachment: fixed;
+}
+h1, h2 {
+    text-align: center;
+    background: #fff;
+}
+.mememory{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.divimg{
+    background:url(img/back.jpg);
+    background-size: cover;
+    padding: 1px;
+}
